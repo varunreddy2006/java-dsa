@@ -11,3 +11,4 @@ public class Hashmap{
         System.out.println(map.get("reddy"));
     }
 }
+//my name is varun//
